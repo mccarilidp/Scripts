@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+title: checkStyle Configuration
+description: Remote configuration hosting for checkStyle.
+show_downloads: true
+theme: jekyll-theme-hacker
